@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Microcotton",
+"dataUrl": "Microcotton2.data.unityweb",
+"wasmCodeUrl": "Microcotton2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Microcotton2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
